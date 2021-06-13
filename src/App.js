@@ -5,7 +5,7 @@ import Dictionary from './Dictionary.js'
 function App() {
   return (
     <div className="App">
-      <header >
+      <header className="App-header" >
         
       </header>
       <main>
